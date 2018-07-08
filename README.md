@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+its my first repository
+neo here, a learner and traveller.
